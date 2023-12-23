@@ -1,0 +1,8 @@
+{
+  "url":"http://10.131.56.133:8005/",
+  "role":"user/get-all-roles",
+  "register":"user/post-new-user",
+  "auth":"user/auth/token",
+  "user":"user/get-user-data"
+
+}
